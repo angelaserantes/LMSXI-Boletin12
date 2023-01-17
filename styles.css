@@ -23,6 +23,8 @@ article {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     margin-bottom: 30px;
+    background-image: url(./img/2.jpg);
+    background-repeat: no-repeat;
 }
 
 #tablero div {
@@ -115,7 +117,7 @@ h2{
     color: brown;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 30px;  
 }
 
 #tabla  div{
