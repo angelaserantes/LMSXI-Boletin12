@@ -152,7 +152,10 @@ h2{
     border-right: transparent;
     margin-top: 50px;
     font-size: x-large;
-    
+    background-image: url(./img/1.jpg);
+    background-repeat: repeat;
+    background-attachment: scroll;
+   
 }
 
 #p3{
