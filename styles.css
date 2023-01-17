@@ -23,7 +23,7 @@ article {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     margin-bottom: 30px;
-    background-image: url(./img/2.jpg);
+    background-image: url(./img/2.jpg);  /*segunda imagen*/
     background-repeat: no-repeat;
 }
 
@@ -139,7 +139,9 @@ h2{
     border-left: transparent;
     border-right: transparent;
     margin-top: 50px;
-    
+    background-image: url(./img/3.jpg);  /*tercera imagen*/
+    background-repeat: repeat;
+    background-attachment: scroll;
 }
 
 #p2{
@@ -154,7 +156,7 @@ h2{
     border-right: transparent;
     margin-top: 50px;
     font-size: x-large;
-    background-image: url(./img/1.jpg);
+    background-image: url(./img/1.jpg); /*primera imagen*/
     background-repeat: repeat;
     background-attachment: scroll;
    
